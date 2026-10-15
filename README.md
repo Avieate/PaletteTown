@@ -4,7 +4,7 @@ A 2D pixelated top-down video game implementing the concepts of color theory.
 
 https://www.merriam-webster.com/dictionary/palette
 
-Showcase Video:
+Showcase Video: https://www.youtube.com/watch?v=YIKjwD9lLv
 
 ### References:-
 - Love2D Tutorial Documentation: https://love2d.org/wiki/Category:Tutorials
